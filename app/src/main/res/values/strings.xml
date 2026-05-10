@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">First APK - Tutorial</string>
+    <string name="welcome_title">Bienvenido</string>
+    <string name="welcome_subtitle">Inicia sesión para aprender Kotlin</string>
+    <string name="label_user">Usuario</string>
+    <string name="label_password">Contraseña</string>
+    <string name="btn_login">INGRESAR</string>
+    <string name="footer_text">Curso Kotlin 2024</string>
+    <string name="msg_empty_fields">Por favor, completa los campos</string>
+    <string name="msg_login_success">Ingresaste con la cuenta: %1$s</string>
+    <string name="home_title">¡Hola, %1$s!</string>
+    <string name="home_subtitle">Aprende Kotlin hoy</string>
+</resources>
